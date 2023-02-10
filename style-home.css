@@ -1,0 +1,44 @@
+body {
+
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+.titulo-principal{
+    padding-left: 30px;
+}
+  #mobas {
+width: 100%;
+
+  }
+
+p {
+    text-align: center;
+    background-color: #cccccc;
+}
+strong {
+    color: red;
+}
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+.Titulo-centralizado {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 50%;
+}
